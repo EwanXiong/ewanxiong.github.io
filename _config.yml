@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "YiFan Xiong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Bioinformatics, NGS, Single cell, R, Python, etc."
   location         : "XiaMen"
   employer         : "Dynamic Biosystems"
   uri              : # URL
@@ -42,7 +42,7 @@ author:
   #bitbucket        : # Username - Update with your username on the site
   #codepen          : # Username
   #dribbble         : # Username
-  github           : "https://github.com/xyifan97"
+  github           : "xyifan97"
   #kaggle           : # Username  
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -64,7 +64,7 @@ author:
   # steam            : # Username
   # telegram         : # URL
   #tumblr           : # Username
-  twitter          : https://twitter.com/Ewan_Xiong # Username for X / Twitter
+  twitter          : Ewan_Xiong # Username for X / Twitter
   #vine             : # U ername
   #weibo            : # Username
   #wikipedia        : # Username
