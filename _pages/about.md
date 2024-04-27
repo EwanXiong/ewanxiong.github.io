@@ -7,20 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! My name is YiFan Xiong. You can also call me Ewan, which is easier to pronounce. I'm now a Bioinformatic engineer at [Dynamic Biosystems](http://www.dynamic-biosystems.com/). My work primarily focuses on analysing Single-cell and Spatial Omics data produced Well-Paired-Seq and DynaSpatial platform, and development software tools for supporting. I’m also enthusiastic about developing R package for data visualization. 
+Hey there! My name is YiFan Xiong, you can also call me Ewan, which is my English name. I'm now a Bioinformatic engineer at [Dynamic Biosystems](http://www.dynamic-biosystems.com/). My work primarily focuses on analysing Single-cell and Spatial Omics data produced by Well-Paired-Seq and DynaSpatial platforms, and development software tools for analyses. I’m also enthusiastic about developing R package for data visualization. 
 
 My Research Interests
 ======
-I am passionate about applying bioinformatic methods to the field of Precision Medicine. 
-I care about promoting open, collaborative, and reproducible science research.
+I am passionate about applying bioinformatic methods to the field of biology, especially Precision Medicine in dieases. Next-Generation Sequencing(NGS) is easily available now, we can have access to high-throughput sequencing data with less effort and difficulties. We can build up complex networks combined with multi-Omics data to explore varieties of biological questions. I think wet experiments are the backbones of Biology, but bioinformatics bring us much data-driven breakthrough and high-dimentional perspective. So that, we can accomplish biological questions with better efficiency and productivity.I also care about promoting open, collaborative, and reproducible science research.
 
-Getting started
+Contect Me
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Please, feel free to get in touch with me. Let me know if you have any questions. I’m always happy to discuss. 
 
 
