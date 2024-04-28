@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * **2019-2022**
-  * M.S. in Bioengineering, Fujian Agriculture and Forestry University. **GPA 3.57/4.0**
+  * M.S. in Bioengineering, Fujian Agriculture and Forestry University. &emsp;&emsp;GPA 3.57/4.0
 * **2015-2019**
-  * B.S. in Bioengineering, Wuhan Institute of Bioengineering. **GPA 3.33/4.0**
+  * B.S. in Bioengineering, Wuhan Institute of Bioengineering. &emsp;&emsp;GPA 3.33/4.0
 
 Work experience
 ======
@@ -51,8 +51,7 @@ Skills
 Research Experience
 ======
 **Undergraduate research**
-Hubei Enineering Research Center of Viral Vector  
-Supervisor: Prof.Junlin Zhang &emsp;&emsp;2016-2017  
+Hubei Enineering Research Center of Viral Vector&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Junlin Zhang&emsp;&emsp;&emsp;&emsp;2016 - 2017 
 
 Project 1: Extraction and identification of anti-cancer bioactive peptides from traditional Chinese medicine
 * Learning expertise in Oncology and experimental designs by reading paper and lab seminar.
