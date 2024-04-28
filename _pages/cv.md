@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ======
-* 2019-2022
-  * M.S. in Bioengineering, Fujian Agriculture and Forestry University. GPA 3.57/4.0
-* 2015-2019
-  * B.S. in Bioengineering, Wuhan Institute of Bioengineering. GPA 3.33/4.0
+* **2019-2022**
+  * M.S. in Bioengineering, Fujian Agriculture and Forestry University. **GPA 3.57/4.0**
+* **2015-2019**
+  * B.S. in Bioengineering, Wuhan Institute of Bioengineering. **GPA 3.33/4.0**
 
 Work experience
 ======
-* 2023 - present: Bioinformatics Engineer
+* **2023 - present**: Bioinformatics Engineer
   * Dynamic Biosystems
   * Department: Bioinformatics development
   * Duties includes: Matainance and improvements to Single-cell omics pipeline and tools(including scRNA-seq and scVDJ-seq)
 
 
-* 2022 - 2023: Bioinformatics Engineer
+* **2022 - 2023**: Bioinformatics Engineer
   * Fuzhou Institue of Data Technology
   * Department: Digital Medicine
   * Duties included: Multi-omics pipeline construction and data analysis.
@@ -50,8 +50,9 @@ Skills
 
 Research Experience
 ======
-Undergraduate research
-Hubei Enineering Research Center of Viral Vector            Supervisor: Prof.Junlin Zhang              2016-2017  
+**Undergraduate research**
+Hubei Enineering Research Center of Viral Vector  
+Supervisor: Prof.Junlin Zhang &emsp;&emsp;2016-2017  
 
 Project 1: Extraction and identification of anti-cancer bioactive peptides from traditional Chinese medicine
 * Learning expertise in Oncology and experimental designs by reading paper and lab seminar.
