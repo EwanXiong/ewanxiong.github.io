@@ -9,7 +9,7 @@ paperurl: 'https://xyifan97.github.io/files/paper2.pdf'
 citation: 'Xiong Y, Lin D, Ma S, Wang C, Lin S.(2022). &quot;Genome-wide identification of the calcium-dependent protein kinase gene family in fragaria vesca and expression analysis under different biotic stresses.&quot; <i>European Journal of Plant Pathology</i>. 164(2):283-98.'
 ---
 
-**Contributed by me**  
+**Which part I Contributed**  
  * Conceptualization
  * Methodology
  * Software
