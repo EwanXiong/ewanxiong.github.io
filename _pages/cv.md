@@ -50,7 +50,7 @@ Skills
 
 Research Experience
 ======
-**Undergraduate research**
+**Undergraduate research**  
 Hubei Enineering Research Center of Viral Vector&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Junlin Zhang&emsp;&emsp;&emsp;&emsp;2016 - 2017 
 
 Project 1: Extraction and identification of anti-cancer bioactive peptides from traditional Chinese medicine
