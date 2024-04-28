@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "cellPCT: An R package for single-cell percentage visulization"
+excerpt: "Cell Type Multicircle plot by cellPCT<br/><img src='/images/Cell_Type_Multicircle_show1.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[cellPCT](https://github.com/xyifan97/cellPCT/tree/main) provide multiple visualizations for scRNA-seq cell type ratio. Including sankey plot, stackbar plot, stackline plot, multidonut plot, singledonut plot, circle plot, rose plot, treemap plot, radar plot and milticircle plot. Each plot type can choose multi parameters to fit users' demands. Like label showing, coord flip, hide cell type which ratio less assigned value, order the group and cell type for plotting, et al.
