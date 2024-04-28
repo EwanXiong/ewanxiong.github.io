@@ -1,6 +1,6 @@
 ---
 title: "cellPCT: An R package for single-cell percentage visulization"
-excerpt: "Cell Type Multicircle plot by cellPCT<br/><img src='/images/Cell_Type_Multicircle_show1.png' style="zoom:50%">"
+excerpt: "Cell Type Multicircle plot by cellPCT<br/><img src='/images/Cell_Type_Multicircle_show1.png' width = "50%">"
 collection: portfolio
 ---
 
