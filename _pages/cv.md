@@ -21,7 +21,7 @@ Work experience
 * **2023 - present**: Bioinformatics Engineer
   * Dynamic Biosystems
   * Department: Bioinformatics development
-  * Duties includes: Matainance and improvements to Single-cell omics pipeline and tools(including scRNA-seq and scVDJ-seq)
+  * Duties includes: Matainance and improvements to Single-cell omics pipeline and tools
 
 
 * **2022 - 2023**: Bioinformatics Engineer
