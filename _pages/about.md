@@ -11,7 +11,7 @@ Hello! I'm YiFan Xiong, you can also call me Ewan, which is my English name. I c
 
 My Research Interests
 ======
-I am deeply passionate about applying bioinformatics methods to the field of biology, particularly in the realm of Precision Medicine for diseases. With Next-Generation Sequencing (NGS) becoming increasingly accessible, high-throughput sequencing data is now readily available with less effort and difficulty. This enables us to construct complex networks by integrating multi-omics data to investigate a wide range of biological questions.
+I'm deeply passionate about applying bioinformatics methods to the field of biology, particularly in the realm of Precision Medicine for diseases. With Next-Generation Sequencing (NGS) becoming increasingly accessible, high-throughput sequencing data is now readily available with less effort and difficulty. This enables us to construct complex networks by integrating multi-omics data to investigate a wide range of biological questions.
 
 While I recognize that wet experiments are the foundation of Biology, I firmly believe that bioinformatics plays a crucial role in driving data-driven breakthroughs and providing a high-dimensional perspective. As a result, we can address biological questions with greater efficiency and productivity.
 
