@@ -60,13 +60,25 @@ Project 1: Extraction and identification of anti-cancer bioactive peptides from 
 Project 2: Functional verification of QinFeng tea by constructing Hyperuricemia animal models
 * Conducting high-purine diet or injection of uric acid metabolism enzymes inhibitors to construct mouse and rat Hyperuricemia Models.
 * Blood sample collection and qutitive analsis of uric acid by ELISA.
-* Data process and visulization, evaluate animal model. 
+* Data process and visulization, evaluate animal model.
 
+Plant hormone and nutrient regulation lab&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Zhongming Fang&emsp;&emsp;&emsp;&emsp;2017 - 2019  
 
+Project 3: Rice *OsAAP3* gene transgenic material leaves transcriptome analysis (Graduate Thesis)
+* RNA-seq data process and visulization.
+* R coding and conda environments maintainance.
+* Paper writting and review.
 
+**Graduate research**  
+Key Laboratory of Loquat Germplasm Utilization of Fujian province&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Shoukai Lin&emsp;&emsp;&emsp;&emsp;2019 - 2022  
 
+Project 4: Genome-wide identification of the calcium-dependent protein kinase gene family in *Fragaria vesca* and expression analysis under different biotic stresses(Published)
+* Determined the evolutionary history of FvCDPKs by genome-wide identification and collinearity analysis.
+* Retrieved strawbarry abiotic stress transciptome data from public database.
+* Different transcriptional patterns of wild strawberry under various abiotic stresses(Bacteria, Fungi, Virus).
 
+Project 5: Identification and Expression Analysis of CDPK Family in *Eriobotrya japonica*, reveals *EjCDPK25* in Response to Freezing Stress in Fruitlets.(Previewed)
+* 
 
-
-  
+Project 6: Identiication of cold stress response s genes in loqua t and the mechanism in resistance
   
