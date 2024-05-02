@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * **2019 - 2022**
-  * M.S. in Bioengineering, Fujian Agriculture and Forestry University. &emsp;&emsp;GPA 3.33/4.0
+  * M.S. in Bioengineering, Fujian Agriculture and Forestry University.
 * **2015 - 2019**
-  * B.S. in Bioengineering, Wuhan Institute of Bioengineering. &emsp;&emsp;GPA 3.57/4.0
+  * B.S. in Bioengineering, Wuhan Institute of Bioengineering.
 
 Work experience
 ======
