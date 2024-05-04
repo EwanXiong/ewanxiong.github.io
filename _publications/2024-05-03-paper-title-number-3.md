@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Identification and Expression Analysis of CDPK Family in *Eriobotrya japonica*, reveals *EjCDPK25* in Response to Freezing Stress in Fruitlets."
 collection: publications
 permalink: /publication/2024-05-03-paper-title-number-3
 excerpt: 'This paper is a part of my graduate thesis.'
