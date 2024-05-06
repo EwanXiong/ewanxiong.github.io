@@ -6,7 +6,7 @@ excerpt: 'This paper is a part of my graduate thesis.'
 date: 2024-05-03
 venue: 'bioRxiv preprint'
 paperurl: 'https://xyifan97.github.io/files/paper3.pdf'
-citation: 'Yifan Xiong, Shunquan Lin, Jincheng Wu, Shoukai Lin (2024). &quot;Identification and Expression Analysis of CDPK Family in Eriobotrya japonica, reveals EjCDPK25 in Response to Freezing Stress in Fruitlets.&quot; <i>bioRxiv</i>. https://doi.org/10.1101/2024.05.01.591999.'
+citation: 'Yifan Xiong, Shunquan Lin, Jincheng Wu, Shoukai Lin (2024). &quot;Identification and Expression Analysis of CDPK Family in Eriobotrya japonica, reveals EjCDPK25 in Response to Freezing Stress in Fruitlets.&quot; <i>bioRxiv</i>. [https://doi.org/10.1101/2024.05.01.591999].'
 ---
 
 **Which part I Contributed**  
