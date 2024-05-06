@@ -21,13 +21,13 @@ Work experience
 * **2023 - present**: Bioinformatics Engineer
   * Dynamic Biosystems
   * Department: Bioinformatics development
-  * Duties includes: Matainance and improvements to Single-cell omics pipeline and tools
+  * Duties includes: Matainance and improvements to scRNA-seq analysis pipeline and tools development.
 
 
 * **2022 - 2023**: Bioinformatics Engineer
   * Fuzhou Institue of Data Technology
   * Department: Digital Medicine
-  * Duties included: Multi-omics pipeline construction and data analysis.
+  * Duties included: Multi-omics pipeline construction and scRNA-seq data analysis.
 
 Skills
 ======
@@ -64,10 +64,9 @@ Project 2: Functional verification of QinFeng tea by constructing Hyperuricemia 
 
 Plant hormone and nutrient regulation lab&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Zhongming Fang&emsp;&emsp;&emsp;&emsp;2017 - 2019  
 
-Project 3: Rice *OsAAP3* gene transgenic material leaves transcriptome analysis (Graduate Thesis)
-* RNA-seq data process and visulization.
-* R coding and conda environments maintainance.
-* Paper writting and review.
+Project 3: Altered Expression of *OsAAP3* Influences Rice Lesion Mimic and Leaf Senescence by Regulating Arginine Transport and Nitric Oxide Pathway.(Published)
+* *OsAAP3* transgenic rice leaf tissue RNA-seq data analysis, including QC, mapping, count calling, DEGs identification and functional enrichment analysis.
+* Paper writting and data visulization.
 
 **Graduate research**  
 Key Laboratory of Loquat Germplasm Utilization of Fujian province&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Shoukai Lin&emsp;&emsp;&emsp;&emsp;2019 - 2022  
@@ -77,8 +76,8 @@ Project 4: Genome-wide identification of the calcium-dependent protein kinase ge
 * Retrieved strawbarry abiotic stress transciptome data from public database.
 * Different transcriptional patterns of wild strawberry under various abiotic stresses(Bacteria, Fungi, Virus).
 
-Project 5: Identification and Expression Analysis of CDPK Family in *Eriobotrya japonica*, reveals *EjCDPK25* in Response to Freezing Stress in Fruitlets.(Previewed)
-* 
-
-Project 6: Identiication of cold stress response s genes in loqua t and the mechanism in resistance
+Project 5: Identification and Expression Analysis of CDPK Family in *Eriobotrya japonica*, reveals *EjCDPK25* in Response to Freezing Stress in Fruitlets.(Preprint)
+* Identification of CDPK gene family in loquat, basic gene family analysis including gene structure, protein motif, collinearity analysis.
+* Transcription patterns of EjCDPKs and target gene identification by freezing stress traits associated co-expression genes.
+* Target gene over-expression Arabidopsis germline cultivation and freezing stress tolerance experiments.
   
