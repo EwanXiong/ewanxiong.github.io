@@ -6,7 +6,7 @@ excerpt: 'This paper is about part of my undergraduate work.'
 date: 2021-02-22
 venue: 'International Journal of Molecular Sciences'
 paperurl: 'https://xyifan97.github.io/files/paper1.pdf'
-citation: 'Wei Qilang, Zhenwei Yan, Yifan Xiong, and Zhongming Fang. (2021). &quot;Altered Expression of OsAAP3 Influences Rice Lesion Mimic and Leaf Senescence by Regulating Arginine Transport and Nitric Oxide Pathway.&quot; <i>International Journal of Molecular Sciences</i>. 22, no. 4: 2181.'
+citation: 'Wei Qilang, Zhenwei Yan, Yifan Xiong, and Zhongming Fang. (2021). &quot;Altered Expression of OsAAP3 Influences Rice Lesion Mimic and Leaf Senescence by Regulating Arginine Transport and Nitric Oxide Pathway.&quot; <i>International Journal of Molecular Sciences</i>. 22, no. 4: 2181.[https://doi.org/10.3390/ijms22042181]'
 ---
 
 **Which part I Contributed**  
