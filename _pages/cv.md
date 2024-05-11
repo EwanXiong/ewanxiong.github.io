@@ -9,48 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
-* **2019 - 2022**
+### 2019 - 2022
   * M.S. in Bioengineering, Fujian Agriculture and Forestry University.
-* **2015 - 2019**
+### 2015 - 2019
   * B.S. in Bioengineering, Wuhan Institute of Bioengineering.
 
-Work experience
+## Work experience
 ======
-* **2023 - present**: Bioinformatics Engineer
+### 2023 - present: Bioinformatics Engineer
   * Dynamic Biosystems
   * Department: Bioinformatics development
   * Duties includes: Matainance and improvements to scRNA-seq analysis pipeline and tools development.
 
 
-* **2022 - 2023**: Bioinformatics Engineer
+### 2022 - 2023: Bioinformatics Engineer
   * Fuzhou Institue of Data Technology
   * Department: Digital Medicine
   * Duties included: Multi-omics pipeline construction and scRNA-seq data analysis.
 
-Skills
+## Skills
 ======
-* Bioinformatic Skills
+### Bioinformatic Skills
   * Programming language: Proficiency in shell, R and python
   * Code matainance: Github and Gitlab
   * Multi-omics: Pipeline constructions and analysis experience with Multi-omics data. Genomic(WGS, WES), Transcriptome(single-cell, bulk, miRNA, lncRNA, circRNA), Epigenetic(WGBS, ChIp-seq, ATAC-seq)
   * Tools development: R package and shiny apps development
 
-* Experimental Skills
+### Experimental Skills
   * Molecular: Vector construction, Real-time PCR, SDS-PAGE, et al.
   * Cell: Cell line cultivation and reproduction
   * Botany: Arabidopsis cultivation and construct transgenetic material, functional verification of genes
 
-* Other Skills
+### Other Skills
   * Independent thinking and problem-solving
   * Team working and communication
   * Papaer writting and data visulization
   * Presentaion and Poster showcasing
 
-Research Experience
+##　Research Experience
 ======
-**Undergraduate research**  
+### Undergraduate research  
 Hubei Enineering Research Center of Viral Vector&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Junlin Zhang&emsp;&emsp;&emsp;&emsp;2016 - 2017 
 
 Project 1: Extraction and identification of anti-cancer bioactive peptides from traditional Chinese medicine
@@ -68,7 +68,7 @@ Project 3: Altered Expression of *OsAAP3* Influences Rice Lesion Mimic and Leaf 
 * *OsAAP3* transgenic rice leaf tissue RNA-seq data analysis, including QC, mapping, count calling, DEGs identification and functional enrichment analysis.
 * Paper writting and data visulization.
 
-**Graduate research**  
+## Graduate research  
 Key Laboratory of Loquat Germplasm Utilization of Fujian province&emsp;&emsp;&emsp;Supervisor: Prof.Shoukai Lin&emsp;&emsp;&emsp;2019 - 2022  
 
 Project 4: Genome-wide identification of the calcium-dependent protein kinase gene family in *Fragaria vesca* and expression analysis under different biotic stresses(Published)
