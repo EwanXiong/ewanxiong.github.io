@@ -12,7 +12,8 @@ redirect_from:
 # Education
 ___<hr style="border: 2px solid">
 ## 2019 - 2022
-  * M.S. in Bioengineering, Fujian Agriculture and Forestry University.  
+  * M.S. in Bioengineering, Fujian Agriculture and Forestry University.
+
 ## 2015 - 2019
   * B.S. in Bioengineering, Wuhan Institute of Bioengineering.
 
