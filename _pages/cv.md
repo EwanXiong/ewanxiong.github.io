@@ -16,6 +16,7 @@ redirect_from:
 ## 2015 - 2019
   * B.S. in Bioengineering, Wuhan Institute of Bioengineering.  
 
+
 # Work experience
 <hr style="border: 2px solid">
 ## 2023 - present: Bioinformatics Engineer
@@ -27,6 +28,7 @@ redirect_from:
   * Fuzhou Institue of Data Technology
   * Department: Digital Medicine
   * Duties included: Multi-omics pipeline construction and scRNA-seq data analysis.
+
 
 # Skills
 <hr style="border: 2px solid">
@@ -43,7 +45,8 @@ redirect_from:
   * Independent thinking and problem-solving
   * Team working and communication
   * Papaer writting and data visulization
-  * Presentaion and Poster showcasing
+  * Presentaion and Poster showcasing  
+
 
 # Research Experience
 <hr style="border: 2px solid">
@@ -66,11 +69,12 @@ Project 3: Altered Expression of *OsAAP3* Influences Rice Lesion Mimic and Leaf 
 
 ## Graduate research
 Key Laboratory of Loquat Germplasm Utilization of Fujian province&emsp;&emsp;&emsp;Supervisor: Prof.Shoukai Lin&emsp;&emsp;&emsp;2019 - 2022  
+
 Project 4: Genome-wide identification of the calcium-dependent protein kinase gene family in *Fragaria vesca* and expression analysis under different biotic stresses(Published)
 * Determined the evolutionary history of FvCDPKs by genome-wide identification and collinearity analysis.
 * Retrieved strawbarry abiotic stress transciptome data from public database.
 * Different transcriptional patterns of wild strawberry under various abiotic stresses(Bacteria, Fungi, Virus).
-* 
+
 Project 5: Identification and Expression Analysis of CDPK Family in *Eriobotrya japonica*, reveals *EjCDPK25* in Response to Freezing Stress in Fruitlets.(Preprint)
 * Identification of CDPK gene family in loquat, basic gene family analysis including gene structure, protein motif, collinearity analysis.
 * Transcription patterns of EjCDPKs and target gene identification by freezing stress traits associated co-expression genes.
