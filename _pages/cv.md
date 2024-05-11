@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 # Education
-___<hr style="border: 2px solid bule;">
+___<hr style="border: 2px solid">
 ## 2019 - 2022
   * M.S. in Bioengineering, Fujian Agriculture and Forestry University.  
 ## 2015 - 2019
   * B.S. in Bioengineering, Wuhan Institute of Bioengineering.
 
 # Work experience
-___<hr style="border: 2px solid bule;">
+___<hr style="border: 2px solid">
 ## 2023 - present: Bioinformatics Engineer
   * Dynamic Biosystems
   * Department: Bioinformatics development
@@ -30,7 +30,7 @@ ___<hr style="border: 2px solid bule;">
   * Duties included: Multi-omics pipeline construction and scRNA-seq data analysis.
 
 # Skills
-___<hr style="border: 2px solid bule;">
+___<hr style="border: 2px solid">
 ## Bioinformatic Skills
   * Programming language: Proficiency in shell, R and python
   * Code matainance: Github and Gitlab
@@ -49,7 +49,7 @@ ___<hr style="border: 2px solid bule;">
   * Presentaion and Poster showcasing
 
 # Research Experience
-___<hr style="border: 2px solid navy;">
+___<hr style="border: 2px solid">
 ## Undergraduate research  
 Hubei Enineering Research Center of Viral Vector&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Junlin Zhang&emsp;&emsp;&emsp;&emsp;2016 - 2017 
 
