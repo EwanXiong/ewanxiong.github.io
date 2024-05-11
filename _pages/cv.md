@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+# Education  
 <hr style="border: 2px solid">
 ## 2019 - 2022
   * M.S. in Bioengineering, Fujian Agriculture and Forestry University.
