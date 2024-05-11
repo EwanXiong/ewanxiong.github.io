@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "YiFan Xiong"
+<center>title: "YiFan Xiong"</center>
 permalink: /cv/
 author_profile: true
 redirect_from:
