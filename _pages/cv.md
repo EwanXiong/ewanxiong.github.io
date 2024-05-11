@@ -9,48 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+# Education
 <hr style="border: 2px solid bule;">
-### 2019 - 2022
+## 2019 - 2022
   * M.S. in Bioengineering, Fujian Agriculture and Forestry University.
-### 2015 - 2019
+## 2015 - 2019
   * B.S. in Bioengineering, Wuhan Institute of Bioengineering.
 
-## Work experience
+# Work experience
 <hr style="border: 2px solid bule;">
-### 2023 - present: Bioinformatics Engineer
+## 2023 - present: Bioinformatics Engineer
   * Dynamic Biosystems
   * Department: Bioinformatics development
   * Duties includes: Matainance and improvements to scRNA-seq analysis pipeline and tools development.
 
 
-### 2022 - 2023: Bioinformatics Engineer
+## 2022 - 2023: Bioinformatics Engineer
   * Fuzhou Institue of Data Technology
   * Department: Digital Medicine
   * Duties included: Multi-omics pipeline construction and scRNA-seq data analysis.
 
-## Skills
+# Skills
 <hr style="border: 2px solid bule;">
-### Bioinformatic Skills
+## Bioinformatic Skills
   * Programming language: Proficiency in shell, R and python
   * Code matainance: Github and Gitlab
   * Multi-omics: Pipeline constructions and analysis experience with Multi-omics data. Genomic(WGS, WES), Transcriptome(single-cell, bulk, miRNA, lncRNA, circRNA), Epigenetic(WGBS, ChIp-seq, ATAC-seq)
   * Tools development: R package and shiny apps development
 
-### Experimental Skills
+## Experimental Skills
   * Molecular: Vector construction, Real-time PCR, SDS-PAGE, et al.
   * Cell: Cell line cultivation and reproduction
   * Botany: Arabidopsis cultivation and construct transgenetic material, functional verification of genes
 
-### Other Skills
+## Other Skills
   * Independent thinking and problem-solving
   * Team working and communication
   * Papaer writting and data visulization
   * Presentaion and Poster showcasing
 
-## Research Experience
+# Research Experience
 <hr style="border: 2px solid navy;">
-### Undergraduate research  
+## Undergraduate research  
 Hubei Enineering Research Center of Viral Vector&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Junlin Zhang&emsp;&emsp;&emsp;&emsp;2016 - 2017 
 
 Project 1: Extraction and identification of anti-cancer bioactive peptides from traditional Chinese medicine
