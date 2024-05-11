@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
+___
 ### 2019 - 2022
   * M.S. in Bioengineering, Fujian Agriculture and Forestry University.
 ### 2015 - 2019
   * B.S. in Bioengineering, Wuhan Institute of Bioengineering.
 
 ## Work experience
-======
+___
 ### 2023 - present: Bioinformatics Engineer
   * Dynamic Biosystems
   * Department: Bioinformatics development
@@ -30,7 +30,7 @@ redirect_from:
   * Duties included: Multi-omics pipeline construction and scRNA-seq data analysis.
 
 ## Skills
-======
+___
 ### Bioinformatic Skills
   * Programming language: Proficiency in shell, R and python
   * Code matainance: Github and Gitlab
@@ -48,8 +48,8 @@ redirect_from:
   * Papaer writting and data visulization
   * Presentaion and Poster showcasing
 
-##　Research Experience
-======
+## Research Experience
+___
 ### Undergraduate research  
 Hubei Enineering Research Center of Viral Vector&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Junlin Zhang&emsp;&emsp;&emsp;&emsp;2016 - 2017 
 
