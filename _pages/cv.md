@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 ___
-<hr style="border: 2px solid navy;">
+<hr style="border: 2px solid bule;">
 ### 2019 - 2022
   * M.S. in Bioengineering, Fujian Agriculture and Forestry University.
 ### 2015 - 2019
@@ -19,7 +19,7 @@ ___
 
 ## Work experience
 ___
-<hr style="border: 2px solid navy;">
+<hr style="border: 2px solid bule;">
 ### 2023 - present: Bioinformatics Engineer
   * Dynamic Biosystems
   * Department: Bioinformatics development
@@ -33,7 +33,7 @@ ___
 
 ## Skills
 ___
-<hr style="border: 2px solid navy;">
+<hr style="border: 2px solid bule;">
 ### Bioinformatic Skills
   * Programming language: Proficiency in shell, R and python
   * Code matainance: Github and Gitlab
