@@ -40,10 +40,12 @@ redirect_from:
   * Code matainance: Github and Gitlab
   * Multi-omics: Pipeline constructions and analysis experience with Multi-omics data. Genomic(WGS, WES), Transcriptome(single-cell, bulk, miRNA, lncRNA, circRNA), Epigenetic(WGBS, ChIp-seq, ATAC-seq)
   * Tools development: R package and shiny apps development
+
 ## Experimental Skills
   * Molecular: Vector construction, Real-time PCR, SDS-PAGE, et al.
   * Cell: Cell line cultivation and reproduction
   * Botany: Arabidopsis cultivation and construct transgenetic material, functional verification of genes
+
 ## Other Skills
   * Independent thinking and problem-solving
   * Team working and communication
