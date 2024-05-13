@@ -12,12 +12,12 @@ redirect_from:
 # <center>YiFan Xiong</center>
 
 # <span style="color: #507ABB;">Research Interests</span>
-<hr style="margin-top: 5px; border: 2px solid black;">
+<hr style="margin-top: 2px; border: 2px solid black;">
 ## Bioinformatics, NGS data mining, Precision medicine, Singcle-cell Omics, Machine Learning
 
 
 # <span style="color: #507ABB;">Education</span>
-<hr style="border: 2px solid">  
+<hr style="margin-top: 2px; border: 2px solid black;">
 
 ## Fujian Agriculture and Forestry University | Fuzhou, Fujian Province, CN &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep. 2019 - Jun. 2022
   * M.S. in Bioengineering.&emsp;&emsp; GPA: 3.33/4.0
@@ -28,7 +28,7 @@ redirect_from:
   * Lab rotation experience in both experimental and bioinformatic.
 
 # <span style="color: #507ABB;">Work experience</span>
-<hr style="border: 2px solid">
+<hr style="margin-top: 2px; border: 2px solid black;">
 
 ## Suzhou Dynamic Biosystems&emsp;&emsp;Bioinformatics Engineer&emsp;&emsp;Jun. 2023 - Present
 ### Duties includes: Matainance and improvements to scRNA-seq pipeline, tools development and research development data trobleshooting. 
@@ -43,7 +43,7 @@ redirect_from:
  * hECA 2.0
 
 # <span style="color: #507ABB;">Skills</span>
-<hr style="border: 2px solid">  
+<hr style="margin-top: 2px; border: 2px solid black;">
 
 ## Bioinformatic skills  
   * Programming: R, Python and Shell  
@@ -61,7 +61,7 @@ redirect_from:
 
 
 # <span style="color: #507ABB;">Research Experience</span>
-<hr style="border: 2px solid">  
+<hr style="margin-top: 2px; border: 2px solid black;">
 
 ## Undergraduate research
 ### Functional Bioactive Peptides Lab&emsp;&emsp;Supervisor: Prof.Junlin Zhang&emsp;&emsp;2016 - 2017 
