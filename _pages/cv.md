@@ -37,24 +37,6 @@ redirect_from:
 ### Projects: 
  * hECA 2.0
 
-# <span style="color: #507ABB;">Skills</span>
-<hr style="margin-top: 2px; border: 1px solid black;">
-
-## Bioinformatic skills  
-  * Programming: R, Python and Shell  
-  * NGS data analysis: WGS, WES, scRNA-seq, bulk RNA-seq(miRNA, lncRNA, circRNA), WGBS, ChIp-seq, ATAC-seq
-  * Workflow Management: WDL, Snakemake
-  * Code Management and Version Control: Github and Gitlab
-  * Servers and Environment Manager: Conda, Docker, Slurm
-
-## Other skills
-  * Experimental: Vector construction, Real-time PCR, SDS-PAGE, Cell line cultivation, etc.
-  * Independent thinking and problem-solving
-  * Team working and communication
-  * Papaer writting and data visulization
-  * Presentaion and Poster showcasing 
-
-
 # <span style="color: #507ABB;">Research Experience</span>
 <hr style="margin-top: 2px; border: 1px solid black;">
 
@@ -88,3 +70,25 @@ Project 5: Identification and Expression Analysis of CDPK Family in *Eriobotrya 
 Project 6: Large-scale Physiological and Transcriptome Analysis Insights into Adaptive Responses of *Eriobotrya japonica* Fruitlets to Freezing Stress(manuscript)
 * Genome-wide identification of Loquat protein kinase using plant's kinase HMM models and finding expression patterns of freezing-stress related protein kinase.
 * 
+
+# <span style="color: #507ABB;">Publications</span>
+* Wei Qilang, Zhenwei Yan, **Yifan Xiong**, and Zhongming Fang. (2021). "Altered Expression of OsAAP3 Influences Rice Lesion Mimic and Leaf Senescence by Regulating Arginine Transport and Nitric Oxide Pathway." *International Journal of Molecular Sciences*, 22, no.4: 2181. https://doi.org/10.3390/ijms22042181  
+* **Yifan Xiong**, Lin D, Ma S, Wang C, Lin S.(2022). "Genome-wide identification of the calcium-dependent protein kinase gene family in fragaria vesca and expression analysis under different biotic stresses." *European Journal of Plant Pathology*. 164(2):283-98. https://doi.org/10.1007/s10658-022-02560-4
+* **Yifan Xiong**, Shunquan Lin, Jincheng Wu, Shoukai Lin (2024). "Identification and Expression Analysis of CDPK Family in Eriobotrya japonica, reveals EjCDPK25 in Response to Freezing Stress in Fruitlets." *bioRxiv*. https://doi.org/10.1101/2024.05.01.591999
+
+# <span style="color: #507ABB;">Skills</span>
+<hr style="margin-top: 2px; border: 1px solid black;">
+
+## Bioinformatic skills  
+  * Programming: R, Python and Shell  
+  * NGS data analysis: WGS, WES, scRNA-seq, bulk RNA-seq(miRNA, lncRNA, circRNA), WGBS, ChIp-seq, ATAC-seq
+  * Workflow Management: WDL, Snakemake
+  * Code Management and Version Control: Github and Gitlab
+  * Servers and Environment Manager: Conda, Docker, Slurm
+
+## Other skills
+  * Experimental: Vector construction, Real-time PCR, SDS-PAGE, Cell line cultivation, etc.
+  * Independent thinking and problem-solving
+  * Team working and communication
+  * Papaer writting and data visulization
+  * Presentaion and Poster showcasing 
