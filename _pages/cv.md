@@ -19,7 +19,7 @@ redirect_from:
   * M.S. in Bioengineering.&emsp;&emsp; GPA: 3.33/4.0
   * Focus area on Functional genomics of plant.
 
-## Wuhan Institute of Bioengineering | Wuhan, Hubei Province, CN &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Sep. 2015 - Jun. 2019
+## Wuhan Institute of Bioengineering | Wuhan, Hubei Province, CN &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Sep. 2015 - Jun. 2019
   * B.S. in Bioengineering.&emsp;&emsp; GPA: 3.56/4.0
   * Lab rotation experience in both experimental and bioinformatic.
 
