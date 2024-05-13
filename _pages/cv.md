@@ -11,34 +11,33 @@ redirect_from:
 
 # <center>YiFan Xiong</center>
 
-# <span style="color: navy;">Education</span>
+# <span style="color: #507ABB;">Education</span>
 <hr style="border: 2px solid">  
 
-## Fujian Agriculture and Forestry University | Fuzhou, Fujian Province, CN &emsp;&emsp;&emsp;&emsp;Sep. 2019 - Jun. 2022
+## Fujian Agriculture and Forestry University | Fuzhou, Fujian Province, CN &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep. 2019 - Jun. 2022
   * M.S. in Bioengineering.&emsp;&emsp; GPA: 3.33/4.0
   * Focus area on Functional genomics of plant.
 
-## Wuhan Institute of Bioengineering | Wuhan, Hubei Province, CN &emsp;&emsp;&emsp;&emsp; Sep. 2015 - Jun. 2019
+## Wuhan Institute of Bioengineering | Wuhan, Hubei Province, CN &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Sep. 2015 - Jun. 2019
   * B.S. in Bioengineering.&emsp;&emsp; GPA: 3.56/4.0
   * Lab rotation experience in both experimental and bioinformatic.
 
-# <span style="color: navy;">Work experience</span>
+# <span style="color: #507ABB;">Work experience</span>
 <hr style="border: 2px solid">
 
-## 2023 - Present&emsp;&emsp;Suzhou Dynamic Biosystems&emsp;&emsp;Bioinformatics Engineer
+## Suzhou Dynamic Biosystems&emsp;&emsp;Bioinformatics Engineer&emsp;&emsp;Jun. 2023 - Present
 ### Duties includes: Matainance and improvements to scRNA-seq pipeline, tools development and research development data trobleshooting. 
 ### Projects:
  * Development [cellPCT](https://github.com/xyifan97/cellPCT/tree/main): An R package for single-cell percentage visulization
  * 
 
   
-## 2022 - 2023 Bioinformatics Engineer
-  * Fuzhou Institue of Data Technology
-  * Department: Digital Medicine
-  * Duties included: Multi-omics pipeline construction and scRNA-seq data analysis.
+## Fuzhou Institue of Data Technology &emsp;&emsp; Bioinformatics Engineer &emsp;&emsp; Jul. 2022 - Jun. 2023
+### Duties included: Multi-omics pipeline construction and public scRNA-seq dataset collection, normalization and structulization.
+### Projects: 
+ * hECA 2.0
 
-
-# <span style="color: navy;">Skills</span>
+# <span style="color: #507ABB;">Skills</span>
 <hr style="border: 2px solid">  
 
 ## Bioinformatic skills  
@@ -56,7 +55,7 @@ redirect_from:
   * Presentaion and Poster showcasing 
 
 
-# <span style="color: navy;">Research Experience</span>
+# <span style="color: #507ABB;">Research Experience</span>
 <hr style="border: 2px solid">  
 
 ## Undergraduate research
