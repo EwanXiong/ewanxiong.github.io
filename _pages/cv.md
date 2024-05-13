@@ -13,7 +13,7 @@ redirect_from:
 <br>
 <br>
 # <span style="color: #507ABB;">Education</span>
-<hr style="margin-top: 2px; border: 2px solid black;">
+<hr style="margin-top: 2px; border: 1px solid black;">
 
 ## Fujian Agriculture and Forestry University | Fuzhou, Fujian Province, CN &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep. 2019 - Jun. 2022
   * M.S. in Bioengineering.&emsp;&emsp; GPA: 3.33/4.0
@@ -24,7 +24,7 @@ redirect_from:
   * Lab rotation experience in both experimental and bioinformatic.
 
 # <span style="color: #507ABB;">Work experience</span>
-<hr style="margin-top: 2px; border: 2px solid black;">
+<hr style="margin-top: 2px; border: 1px solid black;">
 
 ## Suzhou Dynamic Biosystems&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bioinformatics Engineer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jun. 2023 - Present
 ### Duties includes: Matainance and improvements to scRNA-seq pipeline, tools development and research development data trobleshooting. 
@@ -39,7 +39,7 @@ redirect_from:
  * hECA 2.0
 
 # <span style="color: #507ABB;">Skills</span>
-<hr style="margin-top: 2px; border: 2px solid black;">
+<hr style="margin-top: 2px; border: 1px solid black;">
 
 ## Bioinformatic skills  
   * Programming: R, Python and Shell  
@@ -47,7 +47,6 @@ redirect_from:
   * Workflow Management: WDL, Snakemake
   * Code Management and Version Control: Github and Gitlab
   * Servers and Environment Manager: Conda, Docker, Slurm
-
 ## Others
   * Experimental: Vector construction, Real-time PCR, SDS-PAGE, Cell line cultivation, etc.
   * Independent thinking and problem-solving
@@ -57,7 +56,7 @@ redirect_from:
 
 
 # <span style="color: #507ABB;">Research Experience</span>
-<hr style="margin-top: 2px; border: 2px solid black;">
+<hr style="margin-top: 2px; border: 1px solid black;">
 
 ## Undergraduate research
 ### Functional Bioactive Peptides Lab&emsp;&emsp;Supervisor: Prof.Junlin Zhang&emsp;&emsp;2016 - 2017 
