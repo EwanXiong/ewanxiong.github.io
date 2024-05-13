@@ -45,7 +45,7 @@ redirect_from:
   * NGS data analysis: WGS, WES, scRNA-seq, bulk RNA-seq(miRNA, lncRNA, circRNA), WGBS, ChIp-seq, ATAC-seq
   * Workflow Management: WDL, Snakemake
   * Code Management and Version Control: Github and Gitlab
-  * Servers and Environment Manager: Conda, Docker, Slurm
+  * Servers and Environment Manager: Conda, Docker, Slurm  
 ## Others
   * Experimental: Vector construction, Real-time PCR, SDS-PAGE, Cell line cultivation, etc.
   * Independent thinking and problem-solving
@@ -58,7 +58,7 @@ redirect_from:
 <hr style="margin-top: 2px; border: 1px solid black;">
 
 ## Undergraduate Research Assistant
-### Functional Bioactive Peptides Lab&emsp;&emsp;Supervisor: Prof.Junlin Zhang&emsp;&emsp;2016 - 2017 
+### Functional Bioactive Peptides Lab&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Junlin Zhang&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep. 2016 - Jun. 2017 
 Project 1: Extraction and identification of anti-cancer bioactive peptides from traditional Chinese medicine
 * Experiments including DNA extraction, PCR, vector construction, protein extraction, SDS-PAGE and cell culture, et al.
 Project 2: Functional verification of QinFeng tea by constructing Hyperuricemia animal models
@@ -66,21 +66,21 @@ Project 2: Functional verification of QinFeng tea by constructing Hyperuricemia 
 * Models evaluate by blood sample collection and qutitive analsis of uric acid using ELISA.
 * Data process and visulization.
 
-### Plant Hormone and Nutrient Regulation Lab&emsp;&emsp;Supervisor: Prof.Zhongming Fang&emsp;&emsp;2017 - 2019  
+### Plant Hormone and Nutrient Regulation Lab&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Zhongming Fang&emsp;&emsp;&emsp;&emsp;&emsp;Jul. 2017 - Jun. 2019  
 Project 3: Altered Expression of *OsAAP3* Influences Rice Lesion Mimic and Leaf Senescence by Regulating Arginine Transport and Nitric Oxide Pathway(published)
 * *OsAAP3* transgenic rice leaf tissue RNA-seq data analysis, including QC, mapping, count calling, DEGs identification and functional enrichment analysis.
 * Paper writting and data visulization.
 
 ## Graduate Student Researcher
-### Key Laboratory of Loquat Germplasm Utilization of Fujian province&emsp;&emsp;Supervisor: Prof.Shoukai Lin&emsp;&emsp;2019 - 2022  
+### Key Laboratory of Loquat Germplasm Utilization of Fujian province&emsp;&emsp;Supervisor: Prof.Shoukai Lin&emsp;&emsp;Jun. 2019 - Jul. 2022  
 Project 4: Genome-wide identification of the calcium-dependent protein kinase gene family in *Fragaria vesca* and expression analysis under different biotic stresses(published)
 * Determined the evolutionary history of FvCDPKs by genome-wide identification and collinearity analysis.
 * Retrieved strawbarry abiotic stress transciptome data from public database.
-* Different transcriptional patterns of wild strawberry under various abiotic stresses(Bacteria, Fungi, Virus).
+* Different transcriptional patterns of wild strawberry under various abiotic stresses(Bacteria, Fungi, Virus).  
 Project 5: Identification and Expression Analysis of CDPK Family in *Eriobotrya japonica*, reveals *EjCDPK25* in Response to Freezing Stress in Fruitlets(preprint)
 * Identification of CDPK gene family in loquat, basic gene family analysis including gene structure, protein motif, collinearity analysis.
 * Transcription patterns of EjCDPKs and target gene identification by freezing stress traits associated co-expression genes.
-* Target gene over-expression Arabidopsis germline cultivation and freezing stress tolerance experiments.
+* Target gene over-expression Arabidopsis germline cultivation and freezing stress tolerance experiments.  
 Project 6: Large-scale Physiological and Transcriptome Analysis Insights into Adaptive Responses of *Eriobotrya japonica* Fruitlets to Freezing Stress(manuscript)
 * Genome-wide identification of Loquat protein kinase using plant's kinase HMM models and finding expression patterns of freezing-stress related protein kinase.
 * 
