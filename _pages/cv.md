@@ -12,7 +12,7 @@ redirect_from:
 # <center>YiFan Xiong</center>
 
 # <span style="color: #507ABB;">Research Interests</span>
-<hr style="margin-top: 20px; border: 2px solid black;">
+<hr style="margin-top: 5px; border: 2px solid black;">
 ## Bioinformatics, NGS data mining, Precision medicine, Singcle-cell Omics, Machine Learning
 
 
