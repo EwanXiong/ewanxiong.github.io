@@ -11,7 +11,6 @@ redirect_from:
 
 # <center>YiFan Xiong</center>
 <br>
-<br>
 # <span style="color: #507ABB;">Education</span>
 <hr style="margin-top: 2px; border: 1px solid black;">
 
