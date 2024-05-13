@@ -11,7 +11,7 @@ redirect_from:
 
 # <center>YiFan Xiong</center>
 
-# Education
+# <span style="color:blue;">Education</span>
 <hr style="border: 2px solid">  
 
 ## Fujian Agriculture and Forestry University | Fuzhou, Fujian Province, CN &emsp;&emsp;&emsp;&emsp;Sep. 2019 - Jun. 2022
