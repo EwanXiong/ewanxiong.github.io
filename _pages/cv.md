@@ -12,13 +12,13 @@ redirect_from:
 # <center>YiFan Xiong</center>
 <br>
 # <span style="color: #507ABB;">Education</span>
-<hr style="margin-top: 2px; border: 1px solid black;">
+<hr style="margin-top: 2px; border: 1px solid black;">  
 
-## Fujian Agriculture and Forestry University | Fuzhou, Fujian Province, CN &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep. 2019 - Jun. 2022
+**Fujian Agriculture and Forestry University | Fuzhou, Fujian Province, CN &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep. 2019 - Jun. 2022**
   * M.S. in Bioengineering.&emsp;&emsp; GPA: 3.33/4.0
   * Focus area on Functional genomics of plant.
 
-## Wuhan Institute of Bioengineering | Wuhan, Hubei Province, CN &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Sep. 2015 - Jun. 2019
+**Wuhan Institute of Bioengineering | Wuhan, Hubei Province, CN &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Sep. 2015 - Jun. 2019**
   * B.S. in Bioengineering.&emsp;&emsp; GPA: 3.56/4.0
   * Lab rotation experience in both experimental and bioinformatic.
 
