@@ -25,22 +25,22 @@ redirect_from:
 # <span style="color: #507ABB;">Work experience</span>
 <hr style="margin-top: 2px; border: 1px solid black;">
 
-## Suzhou Dynamic Biosystems&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bioinformatics Engineer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jun. 2023 - Present
-### Duties includes: Matainance and improvements to scRNA-seq pipeline, tools development and research development data trobleshooting. 
-### Projects:
+**Suzhou Dynamic Biosystems&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bioinformatics Engineer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jun. 2023 - Present**
+**Duties includes:** Matainance and improvements to scRNA-seq pipeline, tools development and research development data trobleshooting. 
+**Projects:**
  * Independently developed [cellPCT](https://github.com/xyifan97/cellPCT/tree/main): An R package for single-cell percentage visulization
  * 
 
   
-## Fuzhou Institue of Data Technology &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Bioinformatics Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Jul. 2022 - Jun. 2023
-### Duties included: Multi-omics pipeline construction and public scRNA-seq dataset collection, normalization and structulization.
-### Projects: 
+**Fuzhou Institue of Data Technology &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Bioinformatics Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Jul. 2022 - Jun. 2023**
+**Duties included:** Multi-omics pipeline construction and public scRNA-seq dataset collection, normalization and structulization.
+**Projects:**
  * hECA 2.0
 
 # <span style="color: #507ABB;">Research Experience</span>
 <hr style="margin-top: 2px; border: 1px solid black;">
 
-## Undergraduate Research Assistant
+**Undergraduate Research Assistant**
 ### Functional Bioactive Peptides Lab&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Junlin Zhang&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep. 2016 - Jun. 2017 
 Project 1: Extraction and identification of anti-cancer bioactive peptides from traditional Chinese medicine
 * Experiments including DNA extraction, PCR, vector construction, protein extraction, SDS-PAGE and cell culture, et al.
@@ -55,7 +55,7 @@ Project 3: Altered Expression of *OsAAP3* Influences Rice Lesion Mimic and Leaf 
 * *OsAAP3* transgenic rice leaf tissue RNA-seq data analysis, including QC, mapping, count calling, DEGs identification and functional enrichment analysis.
 * Paper writting and data visulization.
 
-## Graduate Student Researcher
+**Graduate Student Researcher**
 ### Key Laboratory of Loquat Germplasm Utilization of Fujian province&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Shoukai Lin&emsp;&emsp;&emsp;&emsp;Jun. 2019 - Jul. 2022  
 Project 4: Genome-wide identification of the calcium-dependent protein kinase gene family in *Fragaria vesca* and expression analysis under different biotic stresses(published)
 * Determined the evolutionary history of FvCDPKs by genome-wide identification and collinearity analysis.
@@ -80,14 +80,14 @@ Project 6: Large-scale Physiological and Transcriptome Analysis Insights into Ad
 # <span style="color: #507ABB;">Skills</span>
 <hr style="margin-top: 2px; border: 1px solid black;">
 
-## Bioinformatic skills  
+**Bioinformatic skills**
   * Programming: R, Python and Shell  
   * NGS data analysis: WGS, WES, scRNA-seq, bulk RNA-seq(miRNA, lncRNA, circRNA), WGBS, ChIp-seq, ATAC-seq
   * Workflow Management: WDL, Snakemake
   * Code Management and Version Control: Github and Gitlab
   * Servers and Environment Manager: Conda, Docker, Slurm
 
-## Other skills
+**Other skills**
   * Experimental: Vector construction, Real-time PCR, SDS-PAGE, Cell line cultivation, etc.
   * Independent thinking and problem-solving
   * Team working and communication
