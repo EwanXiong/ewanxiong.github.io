@@ -45,8 +45,9 @@ redirect_from:
   * NGS data analysis: WGS, WES, scRNA-seq, bulk RNA-seq(miRNA, lncRNA, circRNA), WGBS, ChIp-seq, ATAC-seq
   * Workflow Management: WDL, Snakemake
   * Code Management and Version Control: Github and Gitlab
-  * Servers and Environment Manager: Conda, Docker, Slurm  
-## Others
+  * Servers and Environment Manager: Conda, Docker, Slurm
+
+## Other skills
   * Experimental: Vector construction, Real-time PCR, SDS-PAGE, Cell line cultivation, etc.
   * Independent thinking and problem-solving
   * Team working and communication
