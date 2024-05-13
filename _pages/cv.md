@@ -38,10 +38,10 @@ redirect_from:
  * hECA 2.0
 
 # <span style="color: #507ABB;">Research Experience</span>
-<hr style="margin-top: 2px; border: 1px solid black;">
+<hr style="margin-top: 2px; border: 1px solid black;">  
 
-**Undergraduate Research Assistant**
-### Functional Bioactive Peptides Lab&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Junlin Zhang&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep. 2016 - Jun. 2017 
+## Undergraduate Research Assistant
+**Functional Bioactive Peptides Lab&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Junlin Zhang&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep. 2016 - Jun. 2017**  
 Project 1: Extraction and identification of anti-cancer bioactive peptides from traditional Chinese medicine
 * Experiments including DNA extraction, PCR, vector construction, protein extraction, SDS-PAGE and cell culture, et al.
 
@@ -50,13 +50,13 @@ Project 2: Functional verification of QinFeng tea by constructing Hyperuricemia 
 * Models evaluate by blood sample collection and qutitive analsis of uric acid using ELISA.
 * Data process and visulization.
 
-### Plant Hormone and Nutrient Regulation Lab&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Zhongming Fang&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jul. 2017 - Jun. 2019  
+**Plant Hormone and Nutrient Regulation Lab&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Zhongming Fang&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jul. 2017 - Jun. 2019**  
 Project 3: Altered Expression of *OsAAP3* Influences Rice Lesion Mimic and Leaf Senescence by Regulating Arginine Transport and Nitric Oxide Pathway(published)
 * *OsAAP3* transgenic rice leaf tissue RNA-seq data analysis, including QC, mapping, count calling, DEGs identification and functional enrichment analysis.
 * Paper writting and data visulization.
 
-**Graduate Student Researcher**
-### Key Laboratory of Loquat Germplasm Utilization of Fujian province&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Shoukai Lin&emsp;&emsp;&emsp;&emsp;Jun. 2019 - Jul. 2022  
+## Graduate Student Researcher
+**Key Laboratory of Loquat Germplasm Utilization of Fujian province&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Shoukai Lin&emsp;&emsp;&emsp;&emsp;Jun. 2019 - Jul. 2022**  
 Project 4: Genome-wide identification of the calcium-dependent protein kinase gene family in *Fragaria vesca* and expression analysis under different biotic stresses(published)
 * Determined the evolutionary history of FvCDPKs by genome-wide identification and collinearity analysis.
 * Retrieved strawbarry abiotic stress transciptome data from public database.
