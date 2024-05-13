@@ -25,22 +25,21 @@ redirect_from:
 # <span style="color: #507ABB;">Work experience</span>
 <hr style="margin-top: 2px; border: 1px solid black;">
 
-**Suzhou Dynamic Biosystems&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bioinformatics Engineer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jun. 2023 - Present**
+**Suzhou Dynamic Biosystems&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bioinformatics Engineer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jun. 2023 - Present**  
 **Duties includes:** Matainance and improvements to scRNA-seq pipeline, tools development and research development data trobleshooting. 
 **Projects:**
  * Independently developed [cellPCT](https://github.com/xyifan97/cellPCT/tree/main): An R package for single-cell percentage visulization
  * 
 
   
-**Fuzhou Institue of Data Technology &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Bioinformatics Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Jul. 2022 - Jun. 2023**
-**Duties included:** Multi-omics pipeline construction and public scRNA-seq dataset collection, normalization and structulization.
+**Fuzhou Institue of Data Technology &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Bioinformatics Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Jul. 2022 - Jun. 2023**  
+**Duties included:** Multi-omics pipeline construction and public scRNA-seq dataset collection, normalization and structulization.  
 **Projects:**
  * hECA 2.0
 
 # <span style="color: #507ABB;">Research Experience</span>
 <hr style="margin-top: 2px; border: 1px solid black;">  
-
-## Undergraduate Research Assistant
+**Undergraduate Research Assistant**  
 **Functional Bioactive Peptides Lab&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Supervisor: Prof.Junlin Zhang&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep. 2016 - Jun. 2017**  
 Project 1: Extraction and identification of anti-cancer bioactive peptides from traditional Chinese medicine
 * Experiments including DNA extraction, PCR, vector construction, protein extraction, SDS-PAGE and cell culture, et al.
