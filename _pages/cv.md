@@ -13,7 +13,7 @@ redirect_from:
 
 # <span style="color: #507ABB;">Research Interests</span>
 ## Bioinformatics, NGS data mining, Precision medicine, Singcle-cell Omics, Machine Learning
-<hr style="border: 2px solid">  
+<hr style="margin-top: 20px; border: 2px solid black;">
 
 # <span style="color: #507ABB;">Education</span>
 <hr style="border: 2px solid">  
