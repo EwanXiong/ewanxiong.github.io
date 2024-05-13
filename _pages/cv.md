@@ -11,7 +11,7 @@ redirect_from:
 
 # <center>YiFan Xiong</center>
 
-# <span style="color:blue;">Education</span>
+# <span style="color: navy;">Education</span>
 <hr style="border: 2px solid">  
 
 ## Fujian Agriculture and Forestry University | Fuzhou, Fujian Province, CN &emsp;&emsp;&emsp;&emsp;Sep. 2019 - Jun. 2022
@@ -22,7 +22,7 @@ redirect_from:
   * B.S. in Bioengineering.&emsp;&emsp; GPA: 3.56/4.0
   * Lab rotation experience in both experimental and bioinformatic.
 
-# Work experience
+# <span style="color: navy;">Work experience</span>
 <hr style="border: 2px solid">
 
 ## 2023 - Present&emsp;&emsp;Suzhou Dynamic Biosystems&emsp;&emsp;Bioinformatics Engineer
@@ -38,7 +38,7 @@ redirect_from:
   * Duties included: Multi-omics pipeline construction and scRNA-seq data analysis.
 
 
-# Skills
+# <span style="color: navy;">Skills</span>
 <hr style="border: 2px solid">  
 
 ## Bioinformatic skills  
@@ -56,7 +56,7 @@ redirect_from:
   * Presentaion and Poster showcasing 
 
 
-# Research Experience
+# <span style="color: navy;">Research Experience</span>
 <hr style="border: 2px solid">  
 
 ## Undergraduate research
