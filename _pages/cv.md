@@ -14,12 +14,13 @@ redirect_from:
 # Education
 <hr style="border: 2px solid">  
 
-## 2019 - 2022
-  * M.S. in Bioengineering, Fujian Agriculture and Forestry University.
+## Fujian Agriculture and Forestry University | Fuzhou, Fujian Province, CN &emsp;&emsp;&emsp;&emsp;Sep. 2019 - Jun. 2022
+  * M.S. in Bioengineering.&emsp;&emsp; GPA: 3.33/4.0
+  * Focus area on Functional genomics of plant.
 
-## 2015 - 2019
-  * B.S. in Bioengineering, Wuhan Institute of Bioengineering.  
-
+## Wuhan Institute of Bioengineering | Wuhan, Hubei Province, CN &emsp;&emsp;&emsp;&emsp; Sep. 2015 - Jun. 2019
+  * B.S. in Bioengineering.&emsp;&emsp; GPA: 3.56/4.0
+  * Lab rotation experience in both experimental and bioinformatic.
 
 # Work experience
 <hr style="border: 2px solid">
