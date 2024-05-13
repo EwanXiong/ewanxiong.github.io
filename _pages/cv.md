@@ -19,21 +19,21 @@ redirect_from:
   * M.S. in Bioengineering.&emsp;&emsp; GPA: 3.33/4.0
   * Focus area on Functional genomics of plant.
 
-## Wuhan Institute of Bioengineering | Wuhan, Hubei Province, CN &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep. 2015 - Jun. 2019
+## Wuhan Institute of Bioengineering | Wuhan, Hubei Province, CN &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  Sep. 2015 - Jun. 2019
   * B.S. in Bioengineering.&emsp;&emsp; GPA: 3.56/4.0
   * Lab rotation experience in both experimental and bioinformatic.
 
 # <span style="color: #507ABB;">Work experience</span>
 <hr style="margin-top: 2px; border: 2px solid black;">
 
-## Suzhou Dynamic Biosystems&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bioinformatics Engineer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jun. 2023 - Present
+## Suzhou Dynamic Biosystems&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bioinformatics Engineer&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jun. 2023 - Present
 ### Duties includes: Matainance and improvements to scRNA-seq pipeline, tools development and research development data trobleshooting. 
 ### Projects:
  * Development [cellPCT](https://github.com/xyifan97/cellPCT/tree/main): An R package for single-cell percentage visulization
  * 
 
   
-## Fuzhou Institue of Data Technology &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Bioinformatics Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Jul. 2022 - Jun. 2023
+## Fuzhou Institue of Data Technology &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Bioinformatics Engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   Jul. 2022 - Jun. 2023
 ### Duties included: Multi-omics pipeline construction and public scRNA-seq dataset collection, normalization and structulization.
 ### Projects: 
  * hECA 2.0
