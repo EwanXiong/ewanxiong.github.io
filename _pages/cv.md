@@ -76,8 +76,9 @@ redirect_from:
 # <span style="color: #507ABB;">Publications</span>
 <hr style="margin-top: 2px; border: 1px solid black;">
 * Wei Qilang, Zhenwei Yan, **Yifan Xiong**, and Zhongming Fang (2021). Altered Expression of OsAAP3 Influences Rice Lesion Mimic and Leaf Senescence by Regulating Arginine Transport and Nitric Oxide Pathway. *International Journal of Molecular Sciences*, 22, no.4: 2181. https://doi.org/10.3390/ijms22042181  
-* **Yifan Xiong**, Dahe Lin , Shiwei Ma, Chunhua Wang, Shoukai Lin (2022). Genome-wide identification of the calcium-dependent protein kinase gene family in fragaria vesca and expression analysis under different biotic stresses. *European Journal of Plant Pathology*. 164(2):283-98. https://doi.org/10.1007/s10658-022-02560-4
-* **Yifan Xiong**, Shunquan Lin, Jincheng Wu, Shoukai Lin (2024). Identification and Expression Analysis of CDPK Family in Eriobotrya japonica, reveals *EjCDPK25* in Response to Freezing Stress in Fruitlets. *bioRxiv*. https://doi.org/10.1101/2024.05.01.591999
+* **Yifan Xiong**, Dahe Lin , Shiwei Ma, Chunhua Wang, Shoukai Lin (2022). Genome-wide identification of the calcium-dependent protein kinase gene family in fragaria vesca and expression analysis under different biotic stresses. *European Journal of Plant Pathology*. 164(2):283-98. https://doi.org/10.1007/s10658-022-02560-4  
+* **Yifan Xiong**, Shunquan Lin, Jincheng Wu, Shoukai Lin (2024). Identification and Expression Analysis of CDPK Family in Eriobotrya japonica, reveals *EjCDPK25* in Response to Freezing Stress in Fruitlets. *bioRxiv*. https://doi.org/10.1101/2024.05.01.591999  
+
 
 
 # <span style="color: #507ABB;">Skills</span>
