@@ -57,7 +57,7 @@ Project 3: Altered Expression of *OsAAP3* Influences Rice Lesion Mimic and Leaf 
 * Paper writting and data visulization.
 
 ## Graduate Student Researcher
-### Key Laboratory of Loquat Germplasm Utilization of Fujian province&emsp;&emsp;&emsp;Supervisor: Prof.Shoukai Lin&emsp;&emsp;Jun. 2019 - Jul. 2022  
+### Plant Functional genomics lab&emsp;&emsp;&emsp;Supervisor: Prof.Shoukai Lin&emsp;&emsp;Jun. 2019 - Jul. 2022  
 **Project 4: Genome-wide identification of the calcium-dependent protein kinase gene family in *Fragaria vesca* and expression analysis under different biotic stresses(published)**
 * Determined the evolutionary history of FvCDPKs by genome-wide identification and collinearity analysis.
 * Retrieved strawbarry abiotic stress transciptome data from public database.
