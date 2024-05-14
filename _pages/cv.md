@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<embed src="{{ site.baseurl }}/files/yourdoc.pdf" width="600" height="700" type='application/pdf'>
 # <center>YiFan Xiong</center>
 <br>
 # <span style="color: #507ABB;">Education</span>
