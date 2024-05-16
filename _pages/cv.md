@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 <div style="text-align: center;">
-<embed src="{{ site.baseurl }}/files/YifanXiong CV.pdf" width="1000" height="1200" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/YifanXiong CV.pdf" width="1400" height="1500" type='application/pdf'>
 </div>
