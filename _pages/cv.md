@@ -8,4 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
+<div style="text-align: center;">
 <embed src="{{ site.baseurl }}/files/YifanXiong CV.pdf" width="600" height="700" type='application/pdf'>
+</div>
