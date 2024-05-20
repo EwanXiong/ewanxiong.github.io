@@ -1,5 +1,5 @@
 ---
-layout: rm_sidebar_archive
+layout: archive
 title: " "
 permalink: cv/
 author_profile: false
