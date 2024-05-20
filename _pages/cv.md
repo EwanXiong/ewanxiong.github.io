@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://ewanxiong.github.io/files/YifanXiong CV.pdf" type="application/pdf" />
+<embed src="https://ewanxiong.github.io/files/YifanXiong_CV.pdf" type="application/pdf" />
