@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: https://ewanxiong.github.io/files/YifanXiong_CV.pdf
 author_profile: true
 redirect_from:
   - /resume
