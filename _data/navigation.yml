@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: https://ewanxiong.github.io/files/YifanXiong_CV.pdf
+    url: /cv/
     
   - title: "PUBLICATION"
     url: /publications/
