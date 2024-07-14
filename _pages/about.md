@@ -1,19 +1,21 @@
 ---
 permalink: /
-title: "About me"
+title: "Stay Hungry, Stay Foolish"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! My name is YiFan Xiong. I currently work as a Research Assistant at [XGlab](http://eca.xglab.tech/member/index.html) at TsingHua University. In my role, I specialize in analyzing Multi-Omics data and using Machine Learning to evaluate the biological meaning behind the data. Additionally, I like to develop software tools for data analysis and also enthusiastic about developing packages for data visualization. 
+Hi! My name is YiFan Xiong, you can also call me Ewan. After completing my MS degree in 2022, I worked as a Bioinformatic engineer for two years. I currently work as a Research Assistant at [XGlab](http://eca.xglab.tech/member/index.html) at TsingHua University. I am *EAGER* for learning and using state-of-the-art bioinformatic methods to deep-dive into meaningful biological questions, and also interested in software development. I'm now seeking opportunities to pursue a *PhD* degree in order to achieve my goal of becoming a bioinformatic scientist in the future. Here is the [CV](https://ewanxiong.github.io/files/YifanXiong_CV.pdf) for my detailed professional background and research experience.
+
+In my role, I specialize in analyzing Multi-Omics data and using Machine Learning to evaluate the biological meaning behind the data. Additionally, I like to develop software tools for data analysis and also enthusiastic about developing packages for data visualization. 
 
 My Research Interests
 ======
-I'm deeply passionate about applying bioinformatics methods to the field of biology, particularly in the realm of Precision Medicine. With NGS data becoming increasingly accessible, a huge number of sequencing data is now readily available with less effort and difficulty. This enables us to investigate a wide range of biological questions with data-driven breakthroughs.
+My research interests now focus on precision medicine in human diseases. I began wet-lab training in my second year of college, which made me realize that experiments are the foundation of biological research. However, the explosive growth of NGS data highlighted the importance of bioinformatics. I discovered a deep passion for bioinformatics and began coding and using computational methods in my research projects.
 
-While I recognize that wet experiments are the foundation of Biology researches, I firmly believe that bioinformatics plays a crucial role and providing a high-dimensional perspective. As a result, we can address biological questions with greater efficiency and productivity.
+After experiencing the COVID pandemic, I have been constantly thinking about using bioinformatics to make data-driven breakthroughs in understanding and treating human diseases. Multi-omics provide a high-dimensional perspective on biological mechanisms, while high-throughput screening and structure-based protein function analysis can lead to greater efficiency and productivity in precision medicine. Inspired by the motto, "Keep looking, never settle," I am eager to apply bioinformatics methods to the realm of precision medicine, aiming to help people with less effort and difficulty.
 
 Furthermore, I am committed to promoting open, collaborative, and reproducible scientific research.
 
