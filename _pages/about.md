@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is YiFan Xiong, you can also call me Ewan. After completing my MS degree in 2022, I have gained two years of experience in the industry as a Bioinformatics Engineer. Returning to academia because doing research is more interesting to me and offers greater fulfillment. I currently work as a Research Assistant at [XGlab](http://eca.xglab.tech/member/index.html) at TsingHua University. I am **EAGER** for learning and using state-of-the-art bioinformatic methods to deep-dive into meaningful biological questions, and also interested in software development. I'm now seeking opportunities to pursue a **PhD** degree in order to achieve my goal of becoming a bioinformatic scientist in the future. Here is the [CV](https://ewanxiong.github.io/files/YifanXiong_CV.pdf) for my detailed professional background and research experience.
+Hi! My name is YiFan Xiong, you can also call me Ewan. After completing my MS degree in 2022, I have gained two years of experience in the industry as a Bioinformatics Engineer. Returning to academia because doing research is more **interesting** to me and offers greater **fulfillment**. I currently work as a Research Assistant at [XGlab](http://eca.xglab.tech/member/index.html) at TsingHua University. I am **EAGER** for learning and using state-of-the-art bioinformatic methods to deep-dive into meaningful biological questions, and also interested in software development. I'm now seeking opportunities to pursue a **PhD** degree in order to achieve my goal of becoming a bioinformatic scientist in the future. Here is the [CV](https://ewanxiong.github.io/files/YifanXiong_CV.pdf) for my detailed professional background and research experience.
 
 
 
