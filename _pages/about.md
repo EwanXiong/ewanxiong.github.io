@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Yifan Xiong. I am currently working as a Research Assistant in [XGlab](http://eca.xglab.tech/member/index.html) at Tsinghua University. I'm also an incoming PhD student in the Genetics, Genomics, and Bioinformatics ([GGB](https://genetics.ucr.edu/)) program at the University of California, Riverside starting in Fall 2025.
+Hi there! My name is Yifan Xiong. I am currently working as a Research Assistant in [XGlab](http://eca.xglab.tech/member/index.html) at Tsinghua University. I'm also an incoming PhD student in the Genetics, Genomics, and Bioinformatics ([GGB](https://genetics.ucr.edu/)) program at the University of California Riverside, starting in Fall 2025.
 
 
 
