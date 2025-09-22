@@ -22,11 +22,11 @@ repository               : "ewanxiong/ewanxiong.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "YiFan Xiong"
+  name             : "Yifan Xiong"
   pronouns         : # example: "she/her"  
   bio              : "Bioinformatics, ML, etc."
-  location         : "BeiJing"
-  employer         : "TsingHua University"
+  location         : "Riverside, CA"
+  employer         : "UCR"
   uri              : # URL
   email            : "ewanxiong@gmail.com" 
 
