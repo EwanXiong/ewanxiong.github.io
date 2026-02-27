@@ -11,7 +11,7 @@ Hi there! My name is Yifan Xiong. I'm a PhD student in the Genetics, Genomics, a
 
 My Research Field
 ======
-My research interests are now focus on **precision medicine**. Especially develop computational methods for liquid biopsies, specializing in the bioinformatics analysis of cell-free DNA (cfDNA) to uncover non-invasive biomarkers for disease monitoring and early detection.
+My research interests are now focus on **precision medicine**. Especially develop computational methods for **liquid biopsies**, specializing in the bioinformatics analysis of cell-free DNA (**cfDNA**) to uncover non-invasive biomarkers for disease monitoring and early detection.
 
 Furthermore, I am committed to promoting open, collaborative, and reproducible scientific research.
 
