@@ -19,6 +19,6 @@ Furthermore, I am committed to promoting open, collaborative, and reproducible s
 
 Contect Me
 ======
-Please feel free to reach out to me at any time. If you have any questions or would like to discuss anything further, I'm always happy to chat.
+Please feel free to reach out to me, I'm always happy to chat.
 
 
