@@ -1,19 +1,17 @@
 ---
 permalink: /
-title: "Stay Hungry, Stay Foolish"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi there! My name is Yifan Xiong. I am currently a PhD student in the Genetics, Genomics, and Bioinformatics ([GGB](https://genetics.ucr.edu/)) program at the University of California Riverside.
+Hi there! My name is Yifan Xiong. I'm a Ph.D. student in the Genetics, Genomics, and Bioinformatics ([GGB](https://genetics.ucr.edu/)) program at the University of California Riverside, co-advised by ([Prof. Wei Li](https://sites.uci.edu/weililab/)) and ([Prof. Yinsheng Wang](https://profiles.ucr.edu/app/home/profile/yinsheng)).
 
-
-
-My Research Interests
+My Research Field
 ======
-My research interests are now focus on **precision medicine** for human diseases. After experiencing the COVID pandemic, I have been constantly thinking about using bioinformatics to make data-driven breakthroughs in understanding and treating human diseases. Machine learning and multi-omics technologies have ushered in a new era of AI-driven and cross-modal research paradigms. This marks a significant step toward gaining deeper insights into biomedical science, particularly in precision medicine. Inspired by the motto, "Keep looking, never settle," I am eager to apply bioinformatics methods to the realm of precision medicine, aiming to help people with less effort and difficulty.
+My research interests are now focus on **precision medicine**. Especially develop computational methods for liquid biopsies, specializing in the bioinformatics analysis of cell-free DNA (cfDNA) to uncover non-invasive biomarkers for disease monitoring and early detection.
 
 Furthermore, I am committed to promoting open, collaborative, and reproducible scientific research.
 
