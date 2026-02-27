@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Yifan Xiong. I'm a PhD student in the Genetics, Genomics, and Bioinformatics ([GGB](https://genetics.ucr.edu/)) program at the University of California Riverside, co-advised by [Prof. Wei Li](https://sites.uci.edu/weililab/) and [Prof. Yinsheng Wang](https://profiles.ucr.edu/app/home/profile/yinsheng).
+Hi there! My name is Yifan Xiong. I'm a PhD student in the Genetics, Genomics, and Bioinformatics ([GGB](https://genetics.ucr.edu/)) program at the UC Riverside, co-advised by [Prof. Wei Li](https://sites.uci.edu/weililab/) and [Prof. Yinsheng Wang](https://profiles.ucr.edu/app/home/profile/yinsheng). 
+A fun fact about my last name **Xiong** (熊), means "Bear" in Chinese. Naturally, it feels like a special bond to be living in California (the bear flag state) and studying at UC Riverside, the home of Scotty Bear🐻.
+
 
 My Research Field
 ======
