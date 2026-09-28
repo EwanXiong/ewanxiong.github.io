@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Yifan Xiong. I'm a PhD student in the department of Biological Chemistry ([BC](https://medschool.uci.edu/research/basic-science-departments/biological-chemistry)) at **UC Irvine**, School of Medicine(SOM). Advised by [Prof. Wei Li](https://sites.uci.edu/weililab/).
+Hi there! My name is Yifan Xiong. I'm a PhD student in the department of Biological Chemistry ([BC](https://medschool.uci.edu/research/basic-science-departments/biological-chemistry)) at **UC Irvine**, School of Medicine (SOM). Advised by [Prof. Wei Li](https://sites.uci.edu/weililab/).
 A fun fact about my last name **Xiong** (熊), means "Bear" in Chinese. It feels like a special bond to be living in California (the bear🐻 flag state).
 
 
